@@ -11,7 +11,7 @@ this is main purpose.
 Sample website with plenty of files for demos
 This is difftool Test modification!
 ## How to Contribute
-
+Please fork this repository and then issue pull requests for review
 
 ### Copyright
 2019 git.training
