@@ -17,4 +17,4 @@ This is difftool Test modification!
 Please fork this repository and then issue pull requests for review
 
 ### Copyright
-2019 git.training
+2019 git.training All rights reversedS
